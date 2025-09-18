@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Sistema de Facturación 1",
+  "description": "Una aplicación web completa para gestionar la facturación, el inventario, los clientes, los productos y los informes de una empresa. Creada con React, TypeScript y Tailwind CSS.",
+  "requestFramePermissions": []
+}
